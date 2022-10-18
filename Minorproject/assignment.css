@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://images.pexels.com/photos/697662/pexels-photo-697662.jpeg?cs=srgb&dl=pexels-ylanite-koppens-697662.jpg&fm=jpg) ;
+    background-size:cover ;
+    background-attachment: fixed ;
+    margin:20px ;
+    width: auto;
+    padding-top: 5px;
+}
+#header{
+    background-image:linear-gradient(orange,white,green);  
+    margin:20px;
+    padding: 20px;
+    text-align: center;
+    font-family:cursive;
+    font-size: 40px;
+    text-decoration: underline;
+    width:auto;   
+}
+#Content-grid{
+    margin:20px 60px 20px 60px;
+    font-style:italic;
+    font-size:20px ;
+    text-decoration: underline;
+    border-radius: 5px;   
+}
+.col{
+    background-color: rgba(239, 196, 141, 0.623);
+    border: 2px solid blue;
+    border-radius: 5px;
+    margin:5px;
+}
+#footer {
+    color:black;
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+    background-color: rgba(83, 213, 183, 0.759);
+    width: auto;
+    margin: 40px 20px 30px 20px;
+    padding: 20px;
+    text-decoration: underline;
+}
